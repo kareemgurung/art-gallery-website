@@ -25,7 +25,7 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 #### Desktop
-![](./screenshot/art-gallery-desktop.jpg)
+[](./screenshot/art-gallery-desktop.jpg)
 
 
 ### Links
