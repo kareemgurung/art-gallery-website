@@ -25,11 +25,11 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 #### Desktop
-(./screenshot/art-gallery-desktop.jpg)
+![](./screenshot/art-gallery-desktop.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click here](https://github.com/kareemgurung/art-gallery-website)
+- Live Site URL: [Click here](https://famous-sherbet-f44926.netlify.app/)
 
