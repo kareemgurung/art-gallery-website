@@ -119,6 +119,10 @@ body {
   padding: 24px;
 }
 
+.btn-container:hover img {
+  background-color: var(--clr-black);
+}
+
 .btn {
   cursor: pointer;
   background-color: var(--clr-black);
@@ -134,6 +138,10 @@ body {
   letter-spacing: 3.63636px;
   text-transform: uppercase;
   white-space: nowrap;
+}
+
+.btn-container:hover .btn{
+  background-color: var(--clr-gold);
 }
 
 .location-btn-container {
@@ -187,6 +195,14 @@ body {
   gap: 20px;
 }
 
+.home-footer-links svg {
+  fill: var(--clr-white);
+}
+
+.home-footer-links svg:hover {
+  fill: var(--clr-gold);
+}
+
 /* location footer styles */
 .location-footer {
   background-color: var(--clr-gold);
@@ -196,8 +212,12 @@ body {
   color: var(--clr-black);
 }
 
-.location-links {
+.location-footer-links svg {
   fill: var(--clr-black);
+}
+
+.location-footer-links svg:hover {
+  fill: var(--clr-white);
 }
 
 /* container styles */
