@@ -23,9 +23,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
 #### Desktop
-[](./screenshot/art-gallery-desktop.jpg)
+![](./screenshot/art-gallery-desktop.jpg)
+
+#### Tablet
+![](./screenshot/art-gallery-tablet.jpg)
+
+#### Mobile
+![](./screenshot/art-gallery-mobile.jpg)
 
 
 ### Links
